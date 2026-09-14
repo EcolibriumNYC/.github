@@ -33,8 +33,7 @@ Review the [Mozilla Developer Docs: Code Editors](https://developer.mozilla.org/
 
 Review the [UTexas: Intro to Embedded Systems](https://users.ece.utexas.edu/~valvano/mspm0/ebook/Ch1_Introduction.html)
 
-CPU, Memory, Storage, Network / IO
-Basic Electronics and Soldering
+Review the [Instructables: Soldering Guide](https://www.instructables.com/A-Comprehensive-Guide-to-Soldering-Techniques-Tool/)
 
 **How the Web Works**
 
