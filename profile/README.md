@@ -1,5 +1,3 @@
-# README
-
 ## Projects
 There are 3 major projects in this org. 
   1. Virtual Power Plant: A self-hostable, secure-by-design Virtual Power Plant (VPP) to empower communities as resilient energy prosumers.
@@ -43,3 +41,8 @@ Review the [Instructables: Soldering Guide](https://www.instructables.com/A-Comp
 
 [Mozilla Developer Docs: Browsing the web](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Browsing_the_web)
 
+**Reverse Engineering Tools**
+
+[Free Code Camp: How to Use Wireshark](https://www.freecodecamp.org/news/use-wireshark-filters-to-analyze-network-traffic/)
+
+[Ghidra Beginner Guide](https://en.bioerrorlog.work/entry/ghidra-beginner)
