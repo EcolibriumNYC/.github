@@ -1,6 +1,7 @@
 # Learning & Development Resources
 
 Guides, required runtimes, and reference material for contributing across our hardware and software repositories.
+If there are gaps here, let us know.
 
 ## Foundations 
 * [MDN Command Line Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
